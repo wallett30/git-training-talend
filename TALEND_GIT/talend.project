@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_SLyAcVIYEe63hIh0o3w3tQ" label="Talend-GIT" description="Talend Studio Project linked to Git" language="java" technicalLabel="TALEND_GIT" author="_SLyAclIYEe63hIh0o3w3tQ" productVersion="Talend Cloud API Services Platform-8.0.1.20211109_1610" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/wallett30/git-training-talend&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+    <migrationTask xmi:id="_SNt6IFIYEe63hIh0o3w3tQ" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_SLyAclIYEe63hIh0o3w3tQ" login="tom.wallett1@trial47807.us.talend.com" firstName="Tom" lastName="Wallett" type="DQ"/>
+</xmi:XMI>
